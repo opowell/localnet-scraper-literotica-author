@@ -1,0 +1,12 @@
+{
+  "scrapers": [
+    {
+      "name": "Literotica Author",
+      "urlPattern": "www.literotica.com/authors/"
+    }
+  ],
+  "file": "literotica-author.js",
+  "scrapeGaps": {
+    "literotica.com": 10000
+  }
+}
